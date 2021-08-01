@@ -12,4 +12,4 @@ Though you close the page and open it again, the added songs in the playlist rem
 
 # Screenshot
 ***
-![Here is a screenshot of what it looks like](screenshot.png)
+![Here is a screenshot of what it looks like](screenshot.PNG)
